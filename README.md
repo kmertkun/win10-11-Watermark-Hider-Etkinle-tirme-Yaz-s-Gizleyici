@@ -1,6 +1,6 @@
-# Windows 10/11 Watermark Hider / Su İzi Gizleyici
+# Windows 10/11 Watermark Hider / yaziİzi Gizleyici
 
-🌍 *[Read in English](#english)* | 🇹🇷 *[Türkçe okumak için aşağı kaydırın](#türkçe)*
+🌍 * en [Read in English](#english)* | 🇹🇷 *[Türkçe okumak için aşağı kaydırın](#türkçe)*
 
 ---
 
